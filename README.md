@@ -162,4 +162,4 @@ If you discover any security related issues, please email alcalbg@gmail.com inst
 
 Copyright (c) 2019 [Milos Stojanovic](https://github.com/alcalbg).
 
-This project is MIT licensed.
+This project is MIT licensed. 
